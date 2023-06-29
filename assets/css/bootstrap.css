@@ -93,6 +93,12 @@ abbr[data-original-title] {
   -webkit-text-decoration-skip-ink: none;
   text-decoration-skip-ink: none;
 }
+.redesSociales {
+  margin-left: 350px;
+}
+.contactoEmailTelf {
+  margin-left: 350px;
+}
 .redesSociales li {
   display: inline-block;
 }
