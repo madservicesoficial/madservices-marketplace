@@ -1,8 +1,8 @@
 # Site settings
 title: PLATAFORMA DE COMERCIO ONLINE MAD SERVICES
 description: TFG de Alejandro Fernández Pérez
-# baseurl: "/particle" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+baseurl: "/"
+url: "localhost:4000"
 
 # User settings
 username: Alejandro Fernández Pérez
