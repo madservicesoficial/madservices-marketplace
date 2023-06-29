@@ -1,8 +1,8 @@
 [DEMO](https://tsjensen.github.io/fuse-core/)
 
-# Fuse Core
+# Plataforma de Comercio online MAD Services
 
-**A lightweight Jekyll theme for single-page personal websites.**
+**TFG de Alejandro Fernández Pérez**
 
 [![Screenshot](README.pic1.jpg)](https://tsjensen.github.io/fuse-core/)
 
