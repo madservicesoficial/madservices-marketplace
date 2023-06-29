@@ -325,6 +325,7 @@
 
 .enlaceExterno {
   text-decoration: none;
+  color: red;
 }
 
 .page-client {
