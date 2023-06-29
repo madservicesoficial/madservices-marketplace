@@ -93,10 +93,10 @@ abbr[data-original-title] {
   -webkit-text-decoration-skip-ink: none;
   text-decoration-skip-ink: none;
 }
-.enlaceExterno {
-  text-decoration: none;
-}
 .redesSociales li {
+  display: inline-block;
+}
+.catedraticoJesus {
   display: inline-block;
 }
 
