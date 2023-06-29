@@ -1,20 +1,14 @@
-# Fuse Core Theme for Jekyll - Settings
-# https://github.com/tsjensen/fuse-core
-
+#-- Interfaz estática donde acceder a mi TFG y presentación.
 markdown: kramdown
 permalink: pretty
 exclude: ['README.*', 'LICENSE.txt']
 sass:
     style: expanded
 
-
-# CAUTION
-# When modifying this file, take care to preserve the indentation. This is YAML ...
-
-# Main Headline, name required, subtitle optional
-name: Fuse Core
+# Título y subtítulo de la interfaz estática.
+name: PLATAFORMA DE COMERCIO ONLINE MAD SERVICES
 #subtitle:
-subtitle: Frontend Developer
+subtitle: TFG de Alejandro Fernández Pérez
 
 # Title attribute of HTML Page, uses 'name' from above if empty
 title: Fuse Core
@@ -55,12 +49,8 @@ plausible:
     domain: 'tsjensen.github.io'
 
 
-# A picture of you, square(!), at least 180x180 pixels, more is better. Recommended file size < 100 KB.
-# Leave empty for generic placeholder image.
-# You can use your GitHub image:
-avatar: "https://avatars0.githubusercontent.com/u/8897534"
-#avatar: "images/jonathan_doe.jpg"
-#avatar:
+# Imagen cuadrada del logo del TFG.
+avatar: "./madservices.png"
 
 
 # All the social media and other sites that we want to link to. The 'show' flag determines if the link is shown.
