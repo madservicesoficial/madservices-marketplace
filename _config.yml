@@ -1,0 +1,23 @@
+# Inicio
+name: Plataforma de Comercio online MAD Services
+description: TFG de Alejandro Fernández Pérez
+themeJekyll: Twister
+version: 0.1.0
+timezone: Europe/Madrid
+
+# Configuracion
+url: https://madservicesoficial.github.io/madservices-marketplace/inicio
+baseurl: /madservices-marketplace/inicio
+paginate: 5
+paginate_path: "page:num"
+highlighter: pygments
+markdown: kramdown
+
+# Redes Sociales
+author: Alejandro Fernández Pérez
+twitter: https://twitter.com/madservicestick
+instagram: https://www.instagram.com/madservicesoficial/
+GitHub: https://github.com/madservicesoficial
+linkedin: https://www.linkedin.com/in/alejandro-fern%C3%A1ndez-p%C3%A9rez-65024119a/
+
+exclude: [ config.codekit ]
